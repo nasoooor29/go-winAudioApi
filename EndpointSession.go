@@ -1,9 +1,10 @@
 package winAudioApi
 
 import (
-	"ZAZA/winAudioApi/audioSession"
-	"ZAZA/winAudioApi/masterAudio"
 	"fmt"
+
+	"github.com/nasooory/go-winAudioApi/audioSession"
+	"github.com/nasooory/go-winAudioApi/masterAudio"
 )
 
 type EndpointSession struct {

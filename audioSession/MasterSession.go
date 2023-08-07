@@ -1,9 +1,10 @@
 package audioSession
 
 import (
-	"ZAZA/winAudioApi/masterAudio"
-	"ZAZA/winAudioApi/utils"
 	"fmt"
+
+	"github.com/nasooory/go-winAudioApi/masterAudio"
+	"github.com/nasooory/go-winAudioApi/utils"
 
 	"github.com/moutend/go-wca/pkg/wca"
 )

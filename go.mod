@@ -1,4 +1,4 @@
-module ZAZA
+module github.com/nasooory/go-winAudioApi
 
 go 1.20
 

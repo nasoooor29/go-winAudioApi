@@ -1,8 +1,9 @@
 package winAudioApi
 
 import (
-	"ZAZA/winAudioApi/audioSession"
 	"fmt"
+
+	"github.com/nasooory/go-winAudioApi/audioSession"
 )
 
 func FindApp(es *EndpointSession, appName string) ([]*audioSession.AppAudio, error) {
